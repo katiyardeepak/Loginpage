@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "200172524878",
+    "firebase_url": "https://loginpage-b01aa.firebaseio.com",
+    "project_id": "loginpage-b01aa",
+    "storage_bucket": "loginpage-b01aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200172524878:android:0129f70d9754acb0",
+        "android_client_info": {
+          "package_name": "com.example.deepakkatiyar.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200172524878-1sehjqh75s7hb3ag6041p3du4fgi7v6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deepakkatiyar.loginpage",
+            "certificate_hash": "702cf4d5110646121e20cb2b7cc4919321cddb3a"
+          }
+        },
+        {
+          "client_id": "200172524878-rjtecquk0gre84ge9uf8oqbk4u0i06di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptM-sBQHXga1HkArVAgMbfsE5wIudfxw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200172524878-rjtecquk0gre84ge9uf8oqbk4u0i06di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
